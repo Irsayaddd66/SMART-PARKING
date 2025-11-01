@@ -1,0 +1,11 @@
+{
+  "name": "tambahan",
+  "author": "15.ibrahim Irsyad",
+  "pins": [
+    "VCC",
+    "GND",
+    "IN",
+    "OUT"
+  ],
+  "controls": []
+}
